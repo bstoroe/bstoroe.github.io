@@ -16,7 +16,7 @@ Industry Experience
 
 **Senior SDE - [Skytap]**, September 2015 - August 2019
 
-[Skytap] is a provider of cloud environments. I transitioned from SDET to SDE roles. Throughout that time, I focused on quality, defect analysis, and comprehensive monitoring of a complex distributed service architecture.
+[Skytap] is a provider of cloud environments. Transitioned from SDET to SDE roles. Throughout that time, focused on quality, defect analysis, and comprehensive monitoring of a complex distributed service architecture.
 
 - Shipped customer-facing new/improved features, ensuring high quality and quick turn-around via automated tests. Included billing enhancements, import appliance, and application ACL and tag support.
 - Contributed to internal process improvements for data resiliency and security. Included database and server migrations, backup overhaul, and service error/resiliency analysis.
@@ -25,16 +25,14 @@ Industry Experience
 
 **Senior SDET - [HTC]**, September 2011 - August 2015
 
-I worked on the following projects as part of [HTC]'s Creative Labs division, focusing on cloud services, Android development, and innovative user experience.
-
-- HTC Vive: VR Headset
-  - Re-purposed Jira as test case management system.
+The following projects were part of [HTC]'s Creative Labs division, focusing on cloud services, Android development, and innovative user experience.
 
 - HTC Zoe: App for photo/video sharing and remixing
+  - Re-purposed Jira as test case management system.
   - Automated service tests using Java/TestNG/Maven and use JSON schema validation for robust validation.
   - Reviewed peer code. Led test iterations, and owned critical services.
   - Benchmarked services. Evaluated performance test frameworks and used Chef/AWS to automate test environment.
-- HTC Backup: First-party backup solution 
+- HTC Backup: First-party backup solution
   - Planned and developed testing from the ground up Android app used daily by millions of devices.
   - Automated tests using monkeyrunner and uiautomator that was integrated into build pipeline.
   - Developed test data generation tools using Android SDK.
@@ -44,7 +42,7 @@ I worked on the following projects as part of [HTC]'s Creative Labs division, fo
 
 **SDET - [Quardev]**, April 2005 - September 2011
 
-I worked on several projects to support the QA needs of [Quardev]'s clients:
+Supported the QA needs of [Quardev]'s clients:
 
 - Disney – DCAT Group: Third-Party Commerce System Integration
   - Automated tests to validate integration of existing systems with new third-party commerce component.
