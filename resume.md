@@ -9,7 +9,7 @@ Web: [www.linkedin.com/in/bstoroe](https://www.linkedin.com/in/bstoroe/)
 Introduction
 ------------
 
-Software engineer with over 10 years of experience. History of working within teams to ensure quality using intuition and automated testing techniques. Motivated to grasp new technologies quickly, and expand testing coverage in breadth and depth. Track record of shipping products that benefit users in a timely manner.
+Software design engineer with over 10 years of experience. History of working within teams to ensure quality using intuition and automated testing techniques. Motivated to grasp new technologies quickly, and expand testing coverage in breadth and depth. Track record of shipping products that benefit users in a timely manner.
 
 Industry Experience
 -------------------
@@ -83,18 +83,18 @@ Supported the QA needs of [Quardev]'s clients:
 
 Testing Skills
 --------------
-- Automated test design and debugging
+- Automated test design and debugging: unit, integration, e2e, performance
 - Exploratory testing and test design
 - Root cause analysis with domain knowledge and available tools
 - Producing test cases, targeted status reports, and defect records
 
 Technology Skills
 -----------------
-Proficient: Python, HTTP, Windows
+Proficient: Python, HTTP, Windows, REST APIs
 
-Intermediate: XML, SOAP, Win32 API
+Intermediate: XML, SOAP, Win32 API, Databases (relational, time-series)
 
-Familiar: C/C++, Linux, Java, C#/.NET, SQL
+Familiar: C/C++, Linux, Java, C#/.NET, SQL, Kubernetes, Docker
 
 Education and Training
 ----------------------
